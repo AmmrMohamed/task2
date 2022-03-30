@@ -1,0 +1,95 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(219, 226, 226);
+}
+
+.row {
+    background: white;
+    border-radius: 30px;
+    box-shadow: 12px 12px 22px grey;
+}
+
+img {
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    width: 40%;
+}
+
+.btn1 {
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.btn1:hover {
+    background-color: white;
+    border: 1px solid;
+    color: black;
+}
+table, th, td {
+    border: 2px solid black;
+    color: #008080;
+  }
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body  
+{  
+    background-color:	#E9967A;
+    background-size: 100%;
+}  
+.login{  
+    height: 12%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: #008080;
+    margin: auto;
+    width: 20%;
+    border: 5px solid #008080;
+    padding: 10px;
+    background: #BDB76B;    
+}  
+.btnn {
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    top: 70%;
+    background-color: #008080;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  
+  img{
+      width: auto;
+      height: auto;
+      max-width: 10vmax;
+  } */
